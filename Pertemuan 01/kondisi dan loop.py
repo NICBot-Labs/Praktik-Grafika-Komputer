@@ -1,3 +1,4 @@
+# Tugas 3
 x = int(input("Masukan nilai X : "))
 
 if x > 0:

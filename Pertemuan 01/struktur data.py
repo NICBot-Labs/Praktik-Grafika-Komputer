@@ -1,3 +1,4 @@
+# Tugas 4
 # A. list berisi tiga pasangan titik: [(0,0), (50,50), (100,0)]. Tampilkan semua titik
 titik = [(0,0), (50, 50), (100, 0)]
 for i in titik:

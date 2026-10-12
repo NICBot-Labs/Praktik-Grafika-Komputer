@@ -1,3 +1,4 @@
+# Tugas 2
 x = int(input("Masukan titik X : "))
 y = int(input("Masukan titik Y : "))
 warna = input("Masukan warna : ")

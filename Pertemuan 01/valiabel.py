@@ -1,3 +1,4 @@
+# Tugas 5
 x = 500
 y = 300
 warna = "merah"
